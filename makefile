@@ -1,4 +1,4 @@
-# Alper UZGEC
+# Alpe
 # Makefile setup template for ARM architecture, HF
 
 ############################################################################
